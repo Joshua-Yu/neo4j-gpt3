@@ -1,1 +1,1 @@
-# neo4j-gpt3
+# neo4j-gpt3 projects
