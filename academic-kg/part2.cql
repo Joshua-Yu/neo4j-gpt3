@@ -9,7 +9,7 @@
 // 1) api
 :param openai_api_url=>'https://api.openai.com/v1/completions';
 :param openai_api_header_content_type=>"application/json";
-:param openai_api_header_auth=>"Bearer " + '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';
+:param openai_api_header_auth=>"Bearer " + '***OpenAI-API-Key***';
 
 // 2) model
 :param openai_model=>"text-davinci-003";
